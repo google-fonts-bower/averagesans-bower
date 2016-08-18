@@ -1,0 +1,17 @@
+{
+    "name": "averagesans-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Eduardo Tunni"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/averagesans-bower.git"
+    },
+    "description": "Average Sans font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
